@@ -1,0 +1,27 @@
+
+p{
+  color: blue;
+  text-align: center;
+  background-color: lightblue;
+}
+ol{
+  font-weight: bold;
+}
+li{
+  color: purple;
+}
+img{  
+  width:100%;
+  height: auto;
+}
+h1{ 
+ color:purple;
+}
+.galazio{
+}
+body{
+  background-color: orange;
+}
+a{
+  
+}
